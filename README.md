@@ -1,7 +1,7 @@
 # ---------------------------------- #
-# Criado por: Fabio Eduardo Argenton #
-# E-mail: fabio.argenton@hotmail.com #
-# Contato: (19) 9 9799-1755          #
+# Criado por: JADS SUPORTE #
+# E-mail: jadsuporte2021@gmail.com #
+# Contato: (21) 97954-9810          #
 # PS: Não forneço suporte (perdão)   #
 # ---------------------------------- #
 
@@ -10,7 +10,7 @@
 ## ATENÇÃO!
 Antes de fazer qualquer coisa, leia este arquivo inteiro, a aplicação só irá rodar se você seguir corretamente o passo a passo aqui descrito. 
 
-# WEB DASHBOARD
+# FATLOGGI
 Projeto desenvolvido em Node.JS com banco de dados MySQL.
 
 ## Estrutura do projeto:
@@ -29,7 +29,7 @@ Pasta  **dao**: É aqui que fica minhas rotas e é aqui que fica o CRUD (Create,
  -dao>listas é onde contém as consultas que levam os dados até as rotas para serem renderizadas nas telas dos gráficos
 
 [app.js->route->dao->view].
-Pasta **view**: É aqui que fica meu front-end.
+Pasta **view**: É aqui que fica o front-end.
  -pageLogin é a página de login
  -pageInformativo é a página com os conteúdos que ficam passando nas telas em foma de slide
  -includes é onde ficam todas as estruturas e esqueleto do nosso projeto
